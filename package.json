@@ -1,18 +1,14 @@
 {
   "name": "browser-with-fingerprints",
   "description": "A plugin that improves the stealth of automation libraries using fingerprints",
-  "homepage": "https://github.com/bablosoft/browser-with-fingerprints#readme",
+  "homepage": "https://github.com/litecarma/browser-with-fingerprints#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bablosoft/browser-with-fingerprints.git"
+    "url": "git+https://github.com/litecarma/browser-with-fingerprints.git"
   },
-  "author": "bablosoft",
-  "version": "2.3.4",
+  "author": "litecarma",
+  "version": "2.3.5",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bablosoft/browser-with-fingerprints/issues",
-    "email": "mail.to.twaego@gmail.com"
-  },
   "type": "commonjs",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
